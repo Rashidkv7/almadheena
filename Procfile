@@ -1,1 +1,1 @@
-web: gununicorn almadheena.wsgi --log-file -
+web: gunicorn almadheena.wsgi --log-file -
