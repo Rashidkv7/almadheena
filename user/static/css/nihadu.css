@@ -1,0 +1,15 @@
+.q1{
+    color: blue;
+    position: relative;
+    left: 300px;
+}
+.bg{
+    background-image:url('../image/sign\ up\ image.jpeg');
+    background-repeat:no-repeat ;
+    background-size: cover;
+
+}
+.div1{
+    position: relative;
+    left: 500px;
+}
