@@ -11,3 +11,6 @@ def home(request):
 
 def about(request):
     return
+
+def signin(request):
+    return render(request,'signin.html')
